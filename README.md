@@ -1,5 +1,5 @@
 ## Jenny Spade 
-This application was created to demonstrate an ecommerce site where I am displaying products.
+Welcome to Jenny Spade, a functioning Ecommerce site to navigate through different handbags.
 This application is using the React framework for the front-end and Node.js for the back-end.
 The data(products) are being pulled from a remote database. 
 
